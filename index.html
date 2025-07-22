@@ -19,6 +19,7 @@
       background: #fff;
       color: #000;
     }
+
     header {
       position: fixed;
       top: 0;
@@ -27,25 +28,41 @@
       background: #fff;
       border-bottom: 1px solid #ccc;
       padding: 1rem 2rem;
-      text-align: center;
-      font-size: 1.25em;
-      font-weight: bold;
+      font-family: 'EB Garamond', serif;
+      font-size: 1.15em;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
       z-index: 1000;
     }
+
+    header .name {
+      margin-bottom: 0.5rem;
+    }
+
+    header .links {
+      font-size: 0.95em;
+    }
+
     a {
       color: #007acc;
       text-decoration: none;
     }
+
     a:hover {
       text-decoration: underline;
     }
+
     h1 {
-      display: none; /* Hidden since name is now in header */
+      display: none; /* name now handled in header */
     }
+
     h2 {
       font-size: 1.15em;
+      font-weight: normal;
       margin-top: 2em;
     }
+
     p {
       margin-bottom: 1.5em;
     }
@@ -54,10 +71,12 @@
 <body>
 
   <header>
-    Spiros Manolas • 
-    <a href="mailto:spirosmanolas99@gmail.com">email</a> • 
-    <a href="https://linkedin.com/in/spiros-manolas" target="_blank">linkedin</a> • 
-    <a href="https://spirosmanolas.github.io" target="_blank">github</a>
+    <div class="name">Spiros Manolas</div>
+    <div class="links">
+      <a href="mailto:spirosmanolas99@gmail.com">email</a> • 
+      <a href="https://linkedin.com/in/spiros-manolas" target="_blank">linkedin</a> • 
+      <a href="https://spirosmanolas.github.io" target="_blank">github</a>
+    </div>
   </header>
 
   <h1>Spiros Manolas</h1>
