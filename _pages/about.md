@@ -41,7 +41,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 -->
 
 
-ΧΧΧI am an aspiring computational scientist with research interests primarily in the development of computational and  numerical methods for applications in the simulation of physical systems and topology optimization. 
+I am an aspiring computational scientist with research interests primarily in the development of computational and  numerical methods for applications in the simulation of physical systems and topology optimization. 
 
 I am in the third year of my undergraduate degree at [Stony Brook University](https://www.stonybrook.edu/) in Applied and Pure Mathematics with a minor in Mechanical Engineering as a [Simons STEM Scholar](https://www.stonybrook.edu/simonsscholars/). I am currently working under Dr. Shikui Chen in the [Computational Modeling Analysis Design and Optimization (CMADO) Laboratory](http://me.eng.stonybrook.edu/~chen/), where my work focuses on designing bi-stable brain aneurysm implants through the development of a novel dual conformal geometry and non-linear topology optimization algorithm.
 
