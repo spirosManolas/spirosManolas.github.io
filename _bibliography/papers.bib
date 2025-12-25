@@ -3,34 +3,19 @@
 
 @string{aps = {American Physical Society,}}
 
-@book{einstein1920relativity,
-  title={Relativity: the Special and General Theory},
-  author={Einstein, Albert},
-  year={1920},
-  publisher={Methuen & Co Ltd},
-  html={relativity.html}
-}
-
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
-}
-
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+@conference{JointMathematicsMeeting,
+  title        = {One-Dimensional Multi-Velocity Capabilities for Arbitrary Lagrangian-Eulerian Normal Contact Mechanics},
+  author       = {Delgado, C. and Manolas, S., and Shashkov, M., and Naughn-Kukura, N.},
+  year         = {2026},
+  month        = {January},
+  booktitle    = {AMS Contributed Paper Session on Mathematical Physics},
+  address      = {Washington, DC},
+  organization = {Joint Mathematics Meeting},
+  abstract     = {Lagrangian and Arbitrary Lagrangian Eulerian (ALE) hydrodynamics codes such as FLAG form the backbone of many mission-critical multiphysics simulations at Los Alamos National Laboratory. Critical to performing high fidelity simulations with these codes are Lagrangian and ALE contact algorithms, which allow materials to collide, slide, and separate throughout a simulation. Current lagrangian and ALE contact algorithms do not have the ability to track individual material velocities across sub-zonal material interfaces, which is essential to integrating contact and sliding with a diverse range of multiphysics capabilities. We develop such an ALE contact algorithm which has the capability to operate on sub-zonal material interfaces and on one simply connected mesh in a single dimension. This is performed by evolving each material within a lagrangian mesh individually, and then correcting the position of each material with a contact force, calculated using the overfill between materials, so that polygonal and nodal positions align with that of a single-velocity mesh. An optional first-order remapping procedure to a universal mesh may then be used so that void may be removed or injected from a cell. Our algorithm is tested on a variety of one-dimensional test cases, and is able to converge to analytical solutions when available, as well as conserve total energy. Future work involves extending our results to two and three dimensions, implementing a higher order remapping procedure, and implementing the algorithm in FLAG.},
+  doi          = {10.2172/2998230},
+  url         = {https://meetings.ams.org/math/jmm2026/meetingapp.cgi/Paper/53666},
+  selected     = {true},
+  pdf          = {LANL_XCP2025_Manuscript.pdf}
 }
 
 @article{PhysRev.47.777,
