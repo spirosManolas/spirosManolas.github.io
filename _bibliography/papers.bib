@@ -13,14 +13,16 @@
   organization = {Joint Mathematics Meeting},
   abstract     = {Lagrangian and Arbitrary Lagrangian Eulerian (ALE) hydrodynamics codes such as FLAG form the backbone of many mission-critical multiphysics simulations at Los Alamos National Laboratory. Critical to performing high fidelity simulations with these codes are Lagrangian and ALE contact algorithms, which allow materials to collide, slide, and separate throughout a simulation. Current lagrangian and ALE contact algorithms do not have the ability to track individual material velocities across sub-zonal material interfaces, which is essential to integrating contact and sliding with a diverse range of multiphysics capabilities. We develop such an ALE contact algorithm which has the capability to operate on sub-zonal material interfaces and on one simply connected mesh in a single dimension. This is performed by evolving each material within a lagrangian mesh individually, and then correcting the position of each material with a contact force, calculated using the overfill between materials, so that polygonal and nodal positions align with that of a single-velocity mesh. An optional first-order remapping procedure to a universal mesh may then be used so that void may be removed or injected from a cell. Our algorithm is tested on a variety of one-dimensional test cases, and is able to converge to analytical solutions when available, as well as conserve total energy. Future work involves extending our results to two and three dimensions, implementing a higher order remapping procedure, and implementing the algorithm in FLAG.},
   doi          = {10.2172/2998230},
-  url         = {https://meetings.ams.org/math/jmm2026/meetingapp.cgi/Paper/53666},
+  url          = {https://meetings.ams.org/math/jmm2026/meetingapp.cgi/Paper/53666},
   selected     = {true},
-  pdf          = {LANL_XCP2025_Manuscript.pdf}
+  pdf          = {LANL_XCP2025_Manuscript.pdf},
+  preview      = {lanl_xcp_preview.jpg},
+  additional_info = {Paper presented at [2026 Joint mathematics Meeting]{https://meetings.ams.org/math/jmm2026/meetingapp.cgi/Paper/53666}}
 }
 
 @article{PhysRev.47.777,
   abbr={PhysRev},
-  title={HELLOCan Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
+  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
   author={Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
   abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
   journal={Phys. Rev.},
