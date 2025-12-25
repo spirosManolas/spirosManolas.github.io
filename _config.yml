@@ -190,8 +190,16 @@ exclude:
   - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
-  - readme_preview/
-  - vendor
+  - readme_preview/ #THINGS I AM REMOVING (starting from the next line)
+  - pages/blog.md
+  - pages/publications.md
+  - pages/projects.md
+  - pages/repositories.md
+  - pages/teaching.md
+  - pages/profiles.md
+  - pages/dropdown.md
+
+  
 keep_files:
   - CNAME
   - .nojekyll
