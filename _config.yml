@@ -194,7 +194,6 @@ exclude:
   - README.md
   - readme_preview/ #THINGS I AM REMOVING (starting from the next line)
   - pages/blog.md
-  - pages/publications.md
   - pages/projects.md
   - pages/repositories.md
   - pages/teaching.md
