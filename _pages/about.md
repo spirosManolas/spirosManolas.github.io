@@ -41,9 +41,9 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 -->
 
 
-I am an aspiring computational scientist with research interests primarily in the development of novel computational and  numerical methods for applications in the simulation of physical systems and inverse design. 
+I am an aspiring computational scientist with research interests primarily in the development of novel computational and numerical methods for applications in the simulation of physical systems and inverse design. Additionally, I also have interests in theoretical fluid and structural mechanics.
 
-I am in the third year of my undergraduate degree at [Stony Brook University](https://www.stonybrook.edu/) in Applied and Pure Mathematics with a minor in Mechanical Engineering as a [Simons STEM Scholar](https://www.stonybrook.edu/simonsscholars/). I am currently working under Prof. Shikui Chen in the [Computational Modeling Analysis Design and Optimization (CMADO) Laboratory](http://me.eng.stonybrook.edu/~chen/), where my work focuses on designing bi-stable brain aneurysm implants through the development of a novel dual conformal geometry and non-linear topology optimization algorithm.
+I am in the third year of my undergraduate degree at [Stony Brook University](https://www.stonybrook.edu/) in Applied and Pure Mathematics with a minor in Mechanical Engineering as a [Simons STEM Scholar](https://www.stonybrook.edu/simonsscholars/). I am currently working under Prof. Shikui Chen in the [Computational Modeling Analysis Design and Optimization (CMADO) Laboratory](http://me.eng.stonybrook.edu/~chen/), where my work focuses on designing bi-stable brain aneurysm implants through the development of a novel dual conformal geometry and non-linear topology optimization algorithm. I also recently started working with Prof. [Charalampos Markakis](https://www.stonybrook.edu/commcms/ams/faculty/_faculty_profiles/markakis.php) on developing Lagrangian particle methods for relatavistic compressible fluid dynamics.
 
 Previously, I've worked with [Los Alamos National Laboratory's X-Computational Physics (XCP) Division](https://www.lanl.gov/engage/organizations/xcp) through the Computational Physics Student Summer Workshop under Dr. Nathaniel Vaughn-Kukura and Dr. Mikhail Shashkov; I participated in the [Emory University REU on Computational Mathematics for Data Science](https://www.math.emory.edu/site/cmds-reuret/projects/2024-oed/) where I was mentored by Dr. Nicole Yang; and I also used to conduct research under Prof. [Hyun-Kyung Lim](https://www.ams.stonybrook.edu/~hyulim/) where I explored quantum error mitigation for the Quantum Approximate Optimization Algorithm (QAOA).
 
@@ -54,3 +54,5 @@ Beyond my research, I am committed to making a positive impact on my community. 
 -->
 
 I enjoy using my free time on various hobbies, such as hiking, bike riding, cooking/baking, trying new foods, listening to music, learning origami, and spending time with loved ones!
+
+Last updated: March 13th, 2026
